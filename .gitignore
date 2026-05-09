@@ -1,4 +1,8 @@
 node_modules/
 dist/
-*.png
 .DS_Store
+debug-*.png
+after-*.png
+canvas-content.png
+final-test.png
+page-screenshot.png
